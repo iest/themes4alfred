@@ -1,3 +1,6 @@
+# Some themes what I done for [Alfred](http://www.alfredapp.com)
+Feel free to use/remix as you wish.
+
 #### Spacegrey Eighties
 ![spacegrey_eighties](https://raw.github.com/iest/themes4alfred/master/spacegray_eighties.png)
 
