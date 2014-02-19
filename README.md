@@ -7,10 +7,11 @@ Feel free to use/remix as you wish.
 #### Spacegrey Ocean
 ![spacegrey_eighties](https://raw.github.com/iest/themes4alfred/master/spacegrey_ocean.png)
 
-#### Futura (clean and extra)
-![futura clean](https://raw.github.com/iest/themes4alfred/master/futura_clean.png)
+#### Gameboy
+![gameboy](https://raw.github.com/iest/themes4alfred/master/gameboy.png)
 
-![futura clean](https://raw.github.com/iest/themes4alfred/master/futura_extra.png)
+#### Futura Clean
+![futura clean](https://raw.github.com/iest/themes4alfred/master/futura_clean.png)
 
 #### Espresso
 ![espresso](https://raw.github.com/iest/themes4alfred/master/espresso.png)

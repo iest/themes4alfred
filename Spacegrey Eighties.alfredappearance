@@ -5,12 +5,12 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg7W0ND6DtbQ0PoO1tDQ+AYY=
+	ZmZmg7W0ND6DtbQ0PoO1tDQ+g4XrET+G
 	</data>
 	<key>border</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg62sLD6DwsBAPoPu7Gw+AIY=
+	ZmZmg5mYGD6DmZgYPoOZmBg+AYY=
 	</data>
 	<key>cornerRoundness</key>
 	<integer>3</integer>
@@ -30,17 +30,17 @@
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg8zKyj6DmZgYP4PNy0s/AYY=
+	ZmZmg/Tycj+D8O7uPoP29PQ+g+xROD+G
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAYPPzU0/g87MzD4Bhg==
+	ZmZmg/Tycj+D8O7uPoP29PQ+AYY=
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg+ro6D6D6ObmPoPU0tI+gz0KFz+G
+	ZmZmg+bk5D6D5OLiPoPQzs4+g83MDD+G
 	</data>
 	<key>resultSubtextFont</key>
 	<string>Futura</string>
@@ -49,7 +49,7 @@
 	<key>resultTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg7m4OD+DtrU1P4Owry8/gx+FKz+G
+	ZmZmg+bk5D6D5OLiPoPQzs4+AYY=
 	</data>
 	<key>resultTextFont</key>
 	<string>Futura</string>
@@ -72,7 +72,7 @@
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg5qZGT+DzsxMP4OamRk/AYY=
+	ZmZmg5aVFT+DycdHP4OWlRU/AYY=
 	</data>
 	<key>searchPaddingSize</key>
 	<integer>4</integer>
@@ -105,7 +105,7 @@
 	<key>shortcutSelectedColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg9LQUD+DiIcHP4Pi4OA+AYY=
+	ZmZmg87MTD+DmpkZP4POzEw/AYY=
 	</data>
 	<key>uid</key>
 	<string>alfred.theme.custom.B7A70497-01AE-4AF6-A9C0-E2D72C2DAA47</string>
