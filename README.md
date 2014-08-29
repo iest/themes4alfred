@@ -1,5 +1,5 @@
 # Some themes what I done for [Alfred](http://www.alfredapp.com)
-Feel free to use/remix as you wish.
+Feel free to use/remix as you wish. **[DOWNLOAD](https://github.com/iest/themes4alfred/releases/download/1.0.0/themes4alfred.zip)**
 
 #### Yosemite
 ![yosemite](https://raw.github.com/iest/themes4alfred/master/yosemite.png)
