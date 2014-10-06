@@ -1,11 +1,11 @@
 # Some themes what I done for [Alfred](http://www.alfredapp.com)
 Feel free to use/remix as you wish. **[DOWNLOAD](https://github.com/iest/themes4alfred/releases/download/1.0.0/themes4alfred.zip)**
 
+#### Yosemite Dark
+![yosemite_dark](https://raw.github.com/iest/themes4alfred/master/yosemite_dark.png)
+
 #### Yosemite
 ![yosemite](https://raw.github.com/iest/themes4alfred/master/yosemite.png)
-
-#### Yosemite Clean
-![yosemite_clean](https://raw.github.com/iest/themes4alfred/master/yosemite_clean.png)
 
 #### Spacegrey Eighties
 ![spacegrey_eighties](https://raw.github.com/iest/themes4alfred/master/spacegray_eighties.png)

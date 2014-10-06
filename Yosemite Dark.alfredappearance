@@ -4,8 +4,8 @@
 <dict>
 	<key>background</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBgxSuRz+G
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg4mICD6DjYwMPoOlpCQ+g5qZWT+G
 	</data>
 	<key>border</key>
 	<data>
@@ -19,23 +19,23 @@
 	<key>imageStyle</key>
 	<integer>3</integer>
 	<key>name</key>
-	<string>Yosemite Clean</string>
+	<string>Yosemite Dark</string>
 	<key>resultPaddingSize</key>
 	<integer>2</integer>
 	<key>resultSelectedBackgroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAg4/CdT2G
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg6GgID2Dj46OPoPR0FA/AYY=
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg/Yo3D6D9ijcPoP2KNw+AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAQEBg65HIT+G
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8MwPj2DwzA+PYPDMD49g1K4Hj+G
+	ZmZmAQEBg65HYT+G
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
@@ -48,13 +48,13 @@
 	<integer>1</integer>
 	<key>resultTextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmgz0KVz6DPQpXPoM9Clc+gxSuxz6G
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAQEBg+xROD+G
 	</data>
 	<key>resultTextFont</key>
 	<string>Helvetica Neue</string>
 	<key>resultTextFontSize</key>
-	<integer>2</integer>
+	<integer>1</integer>
 	<key>scrollbarColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
@@ -72,7 +72,7 @@
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg3qeAT6Dep4BPoN6ngE+AYY=
+	ZmZmg5+eHj+Dn54eP4Ofnh4/AYY=
 	</data>
 	<key>searchPaddingSize</key>
 	<integer>0</integer>
@@ -107,7 +107,7 @@
 	ZmZmg2ZmJj+DZmYmP4NmZiY/AYY=
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.DCEFD1A9-13FD-4828-94B2-80EE8E4BF642</string>
+	<string>alfred.theme.custom.538197F8-D0B6-4E8B-BA6D-BDEAB16D90EC</string>
 	<key>widthSize</key>
 	<integer>4</integer>
 </dict>
